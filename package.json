@@ -1,0 +1,20 @@
+{
+  "name": "react-flux-starter",
+  "version": "1.0.0",
+  "description": "A starter project for react and flux based apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikram Kommaraju",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-open": "^1.0.0",
+    "jquery": "^2.1.4"
+  }
+}
